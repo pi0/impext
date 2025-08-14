@@ -13,5 +13,5 @@ npx nypm i impext
 **Usage:**
 
 ```sh
-node --import impext
+node --import impext/register
 ```
